@@ -7,8 +7,6 @@ This project was completed at Carnegie Mellon University, Heinz College (Fall 20
 
 ## Repository Structure
 
-- `data/` – Data folders (raw, processed).
 - `notebooks/` – Jupyter notebooks for EDA, feature engineering, and modeling.
-- `results/` – Figures, tables, and metrics used in the report.
 - `report/` – Final written report and appendices.
 - `presentation/` – Slide deck and demo materials.
